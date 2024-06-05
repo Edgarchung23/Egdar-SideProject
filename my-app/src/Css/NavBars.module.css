@@ -1,0 +1,8 @@
+.firstContainer {
+  width: 80%;
+  padding-top: 3rem;
+}
+
+.navBarTitle {
+  display: flex;
+}

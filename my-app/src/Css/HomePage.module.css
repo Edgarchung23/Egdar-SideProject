@@ -1,0 +1,39 @@
+.heading {
+  display: flex;
+  padding-top: 10rem;
+}
+
+#myIcon {
+  height: 15rem;
+  border-radius: 50%;
+}
+
+.aboutMeContent {
+  padding: 5rem;
+  padding-top: 0.1rem;
+  font-size: 2rem;
+}
+
+.title {
+  font-size: 6rem;
+}
+
+.bodyContent {
+  font-weight: 200;
+}
+
+/* ============================================== */
+
+.footer {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid black;
+}
+
+#contactIcon {
+  margin: 1rem;
+  height: 2rem;
+}
+
+/* ============================================== */

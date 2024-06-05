@@ -4,7 +4,7 @@ import styles from "../Css/MyProject.module.css"
 export function MyProject(){
     return(
         <div className={styles.firstContainer}>
-            <span>My project</span>
+            <span>My projec222</span>
         </div>
     )
 }   
